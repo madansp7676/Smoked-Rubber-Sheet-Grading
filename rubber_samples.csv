@@ -1,0 +1,6 @@
+id,date,time,grade,moisture,price,image
+1,2024-01-15,14:30,RSS1,12.5,185,rubber_sheet_001.jpg
+2,2024-01-14,11:15,RSS2,15.2,178,rubber_sheet_002.jpg
+3,2024-01-13,16:45,RSS1,11.8,187,rubber_sheet_003.jpg
+4,2024-01-12,09:20,RSS3,18.1,168,rubber_sheet_004.jpg
+5,2024-01-11,13:55,RSS2,14.7,180,rubber_sheet_005.jpg
